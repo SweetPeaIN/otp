@@ -1,5 +1,17 @@
 .DS_Store       # macOS
 Thumbs.db       # Windows
 
-
+# Virtual environments
 .venv/
+venv/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Environment variables
+.env
