@@ -194,4 +194,3 @@ output_field.grid(row=0, column=1, padx=10)
 toggle_mode()
 
 root.mainloop()
-
